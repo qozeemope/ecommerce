@@ -64,7 +64,7 @@ The API allows authenticated users to create and manage products and categories,
 ## Project Structure
 
 ```
-ecommerce_api/│├── accounts/        # user logic & auth├── products/        # products & categories logic├── config/          # project settings & urls├── manage.py├── requirements.txt└── README.md
+ecommerce/│├── accounts/        # user logic & auth├── products/        # products & categories logic├── config/          # project settings & urls├── manage.py├── requirements.txt└── README.md
 ```
 
 ---
