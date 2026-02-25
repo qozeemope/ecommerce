@@ -243,4 +243,4 @@ Environment variables required:
 
 ALX Backend Engineering Capstone Project
 
-Built by: *[Qozeem Opeyemi Salami]*
+Built by: *Qozeem Opeyemi Salami*
