@@ -74,7 +74,7 @@ ecommerce/│├── accounts/        # user logic & auth├── products/  
 ### 1. Clone repository
 
 ```
-git clone <repo_url>cd ecommerce_api
+git clone <repo_url>cd ecommerce
 ```
 
 ### 2. Create virtual environment
