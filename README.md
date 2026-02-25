@@ -239,8 +239,14 @@ Environment variables required:
 
 ---
 
+## Live Deployment
+API Base URL:
+https://qozeem.pythonanywhere.com/api/products/
+
+API Documentation:
+https://qozeem.pythonanywhere.com/api/docs/
+
 ## Author
 
 ALX Backend Engineering Capstone Project
-
 Built by: *Qozeem Opeyemi Salami*
