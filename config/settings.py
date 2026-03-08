@@ -155,7 +155,11 @@ LOGOUT_REDIRECT_URL = "/api/products/"
 SECRET_KEY = os.getenv("SECRET_KEY", "dev-secret-key")
 DEBUG = os.getenv("DEBUG", "False").lower() == "true"
 
-ALLOWED_HOSTS = ["qozeem.pythonanywhere.com", "127.0.0.1", "localhost"]
+ALLOWED_HOSTS = [
+    "qozeem.pythonanywhere.com",
+    "localhost",
+    "127.0.0.1",
+]
 
 
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
